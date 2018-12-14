@@ -1,0 +1,11 @@
+0 = défaut 
+1 = JSPC /Vidéo pour dénoncer
+2 = Raptor /Deverser ça haine.
+3 = L'Axolot /Repris de justice skisophrene
+4 = Hupsy /Troubadour a la recherche de nouvelles danses
+5 = Capi /La pour le buz
+6 = Mélou/souhaite prendre le pouvoir
+7 = Banane Mystérieuse /mystère
+8 = Nova/ Là pour tuer
+9 = L'Insoumis /Veux remonter sa cote de popularité
+10 = Dreion /Aime Banane mystèrieuse 
